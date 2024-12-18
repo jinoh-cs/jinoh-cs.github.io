@@ -1,0 +1,136 @@
+BODY {
+	COLOR: #000000; FONT-FAMILY: Arial, Trebuchet MS, Arial, "Times New Roman", Georgia, sans-serif; BACKGROUND-COLOR: #ffffff; FONT-VARIANT: normal
+}
+P {
+	FONT-FAMILY: Arial, Georgia, "Times New Roman", Trebuchet MS, Arial, Helvetica, sans-serif
+}
+P.small {
+	FONT-SIZE: 80%
+}
+P.smallc {
+	FONT-WEIGHT: bold; FONT-SIZE: 90%; TEXT-ALIGN: center
+}
+P.foot {
+	FONT-SIZE: 110%; TEXT-ALIGN: center
+}
+DIV.c3 {
+	TEXT-ALIGN: center
+}
+P.colour {
+	FONT-SIZE: 110%; BACKGROUND: #99ccff; WIDTH: 100%; BORDER-TOP-STYLE: none; FONT-FAMILY: Arial, Georgia, "Times New Roman", Trebuchet MS, Arial, Helvetica, sans-serif; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; TEXT-ALIGN: center; BORDER-BOTTOM-STYLE: none
+}
+.bigb {
+	FONT-WEIGHT: bold; FONT-SIZE: 110%
+}
+.small {
+	FONT-SIZE: 90%
+}
+.block {
+	DISPLAY: block
+}
+TD.menu {
+	VERTICAL-ALIGN: top
+}
+TD.main {
+	PADDING-LEFT: 15px; VERTICAL-ALIGN: top; PADDING-TOP: 0px
+}
+TD.title {
+	
+}
+TABLE.menusection {
+	
+}
+TABLE.menupage {
+	
+}
+TD.menupage {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; MARGIN: 0px; PADDING-TOP: 1px
+}
+.menuactivepage {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; MARGIN: 0px; COLOR: #cc0000; PADDING-TOP: 1px
+}
+TD.menusection {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; MARGIN: 0px; PADDING-TOP: 1px
+}
+TD.menuactivesection {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; MARGIN: 0px; COLOR: #000000; PADDING-TOP: 1px
+}
+TD.menuspacing {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.pubtitle {
+	FONT-SIZE: 16px; FONT-FAMILY: Arial, Georgia, "Times New Roman", Trebuchet MS, "Arial", sans-serif; FONT-VARIANT: normal
+}
+.pubauthor {
+	FONT-FAMILY: Arial, Georgia, "Times New Roman", Trebuchet MS, "Arial", sans-serif; FONT-VARIANT: normal
+}
+.journal {
+	FONT-FAMILY: Arial, Georgia, "Times New Roman", Trebuchet MS, "Arial", sans-serif; FONT-VARIANT: normal
+}
+.year {
+	FONT-FAMILY: Arial, Georgia, "Times New Roman", Trebuchet MS, "Arial", sans-serif; FONT-VARIANT: normal
+}
+PRE {
+	FONT-FAMILY: Courier, monospace
+}
+TT {
+	FONT-FAMILY: Courier, monospace
+}
+A {
+	TEXT-DECORATION: none
+}
+A:link {
+	COLOR: #003399; FONT-FAMILY: Arial, Georgia, "Times New Roman", Trebuchet MS, Arial, Helvetica, sans-serif
+}
+A:visited {
+	FONT-FAMILY: Arial, Georgia, "Times New Roman", Trebuchet MS, Arial, Helvetica, sans-serif
+}
+A:active {
+	COLOR: #cc0000; FONT-FAMILY: Arial, Georgia, "Times New Roman", Trebuchet MS, Arial, Helvetica, sans-serif
+}
+A:hover {
+	COLOR: #cc0000; FONT-FAMILY: Arial, Georgia, "Times New Roman", Trebuchet MS, Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A.menusection {
+	COLOR: #003399; FONT-FAMILY: Century Gothic, Arial, Georgia, "Times New Roman", Trebuchet MS, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.menusection:link {
+	COLOR: #003399; FONT-FAMILY: Century Gothic, Arial, Georgia, "Times New Roman", Trebuchet MS, Arial, Helvetica, sans-serif
+}
+A.menusection:visited {
+	COLOR: #003399; FONT-FAMILY: Century Gothic, Arial, Georgia, "Times New Roman", Trebuchet MS, Arial, Helvetica, sans-serif
+}
+A.menusection:active {
+	COLOR: #cc0000; FONT-FAMILY: Century Gothic, Arial, Georgia, "Times New Roman", Trebuchet MS, Arial, Helvetica, sans-serif
+}
+A.menusection:hover {
+	COLOR: #cc0000; FONT-FAMILY: Century Gothic, Arial, Georgia, "Times New Roman", Trebuchet MS, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.menu {
+	COLOR: #003399; FONT-FAMILY: Century Gothic, Arial, Georgia, "Times New Roman", Trebuchet MS, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.menu:link {
+	COLOR: #003399; FONT-FAMILY: Century Gothic, Arial, Georgia, "Times New Roman", Trebuchet MS, Arial, Helvetica, sans-serif
+}
+A.menu:visited {
+	COLOR: #003399; FONT-FAMILY: Century Gothic, Arial, Georgia, "Times New Roman", Trebuchet MS, Arial, Helvetica, sans-serif
+}
+A.menu:active {
+	COLOR: #cc0000; FONT-FAMILY: Century Gothic, Arial, Georgia, "Times New Roman", Trebuchet MS, Arial, Helvetica, sans-serif
+}
+A.menu:hover {
+	COLOR: #cc0000; FONT-FAMILY: Century Gothic, Arial, Georgia, "Times New Roman", Trebuchet MS, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.smallskip {
+	PADDING-LEFT: 15px; VERTICAL-ALIGN: top; PADDING-TOP: 0px
+}
+.title {
+	FONT-WEIGHT: bold; FONT-SIZE: 24px; COLOR: #990000; FONT-FAMILY: Arial, "Century Gothic", Georgia, "Times New Roman", Trebuchet MS, arial; FONT-VARIANT: normal; TEXT-DECORATION: none
+}
+.titlesection {
+	FONT-WEIGHT: bold; FONT-SIZE: 24px; FONT-FAMILY: Arial, Georgia, "Century Gothic", "Times New Roman", Verdana, Trebuchet MS, arial; FONT-VARIANT: normal; TEXT-DECORATION: none
+}
+h1 { text-transform: uppercase; }
+h2 { text-transform: uppercase; }
+h3 { text-transform: uppercase; }
+
