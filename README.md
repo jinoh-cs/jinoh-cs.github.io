@@ -1,4 +1,4 @@
-# jinoh.github.io
+# jinoh-cs.github.io
 Jinoh Kim's repository
 
 I am a Professor of Computer Science at Texas A&M University-Commerce (East Texas A&M University). 
